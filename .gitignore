@@ -20,3 +20,9 @@ src_w_solution/
 
 # Instructor-only notes (chứa gợi ý/đáp án chấm bài, không public cho học viên)
 docs/INSTRUCTOR_GUIDE.md
+.commandcode/
+
+# Benchmark artifacts (không nộp bài)
+.bench_embed_cache.json
+ket_qua_*.txt
+report/GOI_Y_PHAN_THANH_VIEN.md
